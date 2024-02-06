@@ -1,0 +1,4 @@
+client -> src -> component -> Form -> Form.js
+onChange={(e) => setPostData({...postData, creator: e.target.value})}
+R: folosita pentru a seta starea folosind un obiect (folosita pentru cand apasa sa modifice valorile sa se updateze)
+
